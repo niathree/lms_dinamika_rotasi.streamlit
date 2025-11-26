@@ -1,0 +1,22 @@
+{
+    "judul": "Pre-test: Dinamika Rotasi",
+    "deskripsi": "Halo, Sobat Fisika ! Sebelum memulai pembelajaran hari ini, kamu diminta menjawab beberapa pertanyaan berikut berdasarkan pengalaman atau dugaanmu sendiri. Jawabanmu tidak dinilai, tetapi akan membantu guru memahami pemikiran awalmu. Jawablah dengan jujur dan sejujurnya — gunakan kata-katamu sendiri! Tidak ada jawaban salah ! Setelah menjawab, kamu akan menonton video apersepsi dan melakukan eksplorasi melalui simulasi interaktif untuk memperdalam pemahamanmu. Selamat bereksplorasi!",
+    "soal_list": [
+        {
+            "id": "p1_q1",
+            "teks": "Pernahkah kamu membuka pintu? Di bagian mana lebih mudah mendorongnya: dekat engsel atau di gagang pintu? Mengapa menurutmu?"
+        },
+        {
+            "id": "p1_q2",
+            "teks": "Jika kamu menggunakan kunci inggris untuk membuka baut, apakah lebih mudah memegang ujungnya atau dekat baut? Jelaskan!"
+        },
+        {
+            "id": "p1_q3",
+            "teks": "Bayangkan dua roda sepeda: satu polos, satu dipasangi beban di pinggirnya. Roda mana yang menurutmu lebih sulit diputar dari keadaan diam? Mengapa?"
+        },
+        {
+            "id": "p1_q4",
+            "teks": "Menurutmu, apa yang membuat suatu benda “sulit” atau “mudah” berputar?"
+        }
+    ]
+}

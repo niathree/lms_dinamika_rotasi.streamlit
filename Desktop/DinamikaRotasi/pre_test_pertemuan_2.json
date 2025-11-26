@@ -1,0 +1,23 @@
+{
+    "judul": "Pre-test: Dinamika Rotasi - Pertemuan 2",
+    "deskripsi": "Halo, Sobat Fisika! Sebelum memulai pembelajaran hari ini, coba jawab pertanyaan berikut berdasarkan intuisi atau pengalaman sehari-harimu. Jawabanmu hanya untuk memicu rasa ingin tahu — tidak ada yang dinilai benar atau salah. Tulislah jawabanmu sejujurnya. Setelah ini, kamu akan menjelajahi konsep-konsep menarik melalui simulasi virtual dan diskusi kelompok. Yuk, mulai eksplorasi !",
+    "soal_list": [
+        {
+            "id": "p2_q1",
+            "teks": "Pernah lihat penari balet atau pesenam berputar? Saat mereka menarik tangan ke badan, putarannya jadi lebih cepat atau lambat? Menurutmu, kenapa?"
+        },
+        {
+            "id": "p2_q2",
+            "teks": "Jika sebuah roda sepeda sedang berputar bebas di udara (tanpa gesekan), apakah putarannya akan berhenti sendiri? Mengapa?"
+        },
+        {
+            "id": "p2_q3",
+            "teks": "Apa perbedaan antara gerak lurus (translasi) dan gerak berputar (rotasi)? Berikan satu contoh benda yang mengalami kedua jenis gerak tersebut sekaligus (misalnya roda yang menggelinding)."
+        },
+        {
+            "id": "p2_q4",
+            "teks": "Bisakah suatu benda berputar semakin cepat tanpa didorong lagi? Jika ya, dalam situasi apa?"
+        }
+    ],
+    "waktu_update": "2025-11-11 05:24:26"
+}

@@ -1,0 +1,13 @@
+{
+    "judul": "Simulasi Virtual: Dinamika Rotasi",
+    "deskripsi": "Eksplorasi konsep Dinamika Rotasi secara interaktif!",
+    "petunjuk_penggunaan": "📘 **Petunjuk Penggunaan Simulasi PhET: Balancing Act**\n\n💡 Simulasi ini akan membantu Anda memahami konsep kesetimbangan dan torsi secara interaktif.\n\n**Ikuti langkah-langkah berikut untuk menggunakan simulasi:**\n\n1.  **Buka PhET Simulasi**:\n    Klik tautan berikut untuk membuka simulasi:  \n    🔗 [https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act_en.html](https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act_en.html)\n\n2.  **Pilih \"Balance Lab\"**:\n    Setelah simulasi terbuka, pilih tab **\"Balance Lab\"** untuk memulai eksperimen kesetimbangan.\n\n3.  **Tempatkan Massa ke Jungkat-Jungkit**:\n    - Seret massa (benda kotak) ke posisi yang diinginkan di jungkat-jungkit.\n    - Amati bagaimana jungkat-jungkit bereaksi terhadap penempatan massa.\n    - Cobalah membuat jungkat-jungkit seimbang dengan mengatur posisi dan jumlah massa.\n\n4.  **Pilih \"Game\"**:\n    - Klik tab **\"Game\"** untuk menguji pemahaman Anda.\n    - Pilih level permainan yang sesuai (Level 1 - 4).\n    - Selesaikan tantangan dengan menyeimbangkan jungkat-jungkit sesuai instruksi.\n\n5.  **Simulasikan Sesuai Perintah**:\n    - Ikuti instruksi di setiap level permainan.\n    - Gunakan pengetahuan tentang torsi dan kesetimbangan untuk menyelesaikan tantangan.\n",
+    "simulasi_list": [
+        {
+            "judul": "⚖️ Simulasi PhET: Balancing Act",
+            "url": "https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act_en.html",
+            "sumber": ""
+        }
+    ],
+    "waktu_update": "2025-11-11 05:32:34"
+}

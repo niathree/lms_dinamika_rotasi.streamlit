@@ -1,0 +1,61 @@
+{
+    "judul": "Pre-test Fisika: Dinamika Rotasi",
+    "deskripsi": "Jawablah pertanyaan berikut dengan jelas dan singkat.",
+    "soal_list": [
+        {
+            "id": "s1",
+            "teks": "Jelaskan pengertian momen gaya (torsi) dan tuliskan rumusnya. Jelaskan pula makna fisis dari masing-masing variabel dalam rumus tersebut.",
+            "kunci": "Momen gaya (torsi) adalah ukuran kecenderungan suatu gaya untuk memutar benda terhadap suatu poros. Rumus: τ = r × F = rF sin θ. r adalah lengan momen, F adalah gaya, θ adalah sudut antara r dan F.",
+            "rubrik": {
+                "3": "Menjelaskan torsi, menyebutkan rumus, dan menjelaskan makna masing-masing variabel.",
+                "2": "Menjelaskan torsi dan rumus, tetapi kurang menjelaskan makna variabel.",
+                "1": "Menjelaskan torsi saja atau menyebut rumus tanpa penjelasan.",
+                "0": "Tidak menjawab atau jawaban salah."
+            }
+        },
+        {
+            "id": "s2",
+            "teks": "Apa yang dimaksud dengan momen inersia? Jelaskan perbedaannya dengan massa dalam gerak translasi.",
+            "kunci": "Momen inersia adalah ukuran kelembaman benda terhadap perubahan gerak rotasi. Ia berperan dalam gerak rotasi seperti massa dalam gerak translasi. Semakin besar momen inersia, semakin sulit benda diputar.",
+            "rubrik": {
+                "3": "Menjelaskan definisi dan peran momen inersia serta perbedaannya dengan massa.",
+                "2": "Menjelaskan definisi dan menyebutkan perbedaannya, tetapi kurang lengkap.",
+                "1": "Menjelaskan definisi saja.",
+                "0": "Tidak menjawab atau jawaban salah."
+            }
+        },
+        {
+            "id": "s3",
+            "teks": "Tuliskan rumus momentum sudut dan jelaskan hukum kekekalan momentum sudut. Berikan contoh penerapannya dalam kehidupan sehari-hari.",
+            "kunci": "L = Iω. Hukum kekekalan momentum sudut menyatakan bahwa jika torsi luar nol, maka momentum sudut tetap. Contoh: pemain es skating memutar tubuhnya dengan mengurangi jari-jari (I berkurang, ω bertambah).",
+            "rubrik": {
+                "3": "Menuliskan rumus, menjelaskan hukum, dan memberikan contoh penerapan.",
+                "2": "Menuliskan rumus dan menjelaskan hukum, tetapi tanpa contoh.",
+                "1": "Menuliskan rumus saja.",
+                "0": "Tidak menjawab atau jawaban salah."
+            }
+        },
+        {
+            "id": "s4",
+            "teks": "Jelaskan perbedaan antara energi kinetik translasi dan energi kinetik rotasi. Tuliskan rumus masing-masing.",
+            "kunci": "Energi kinetik translasi adalah energi akibat gerak lurus (EK = 1/2 mv²). Energi kinetik rotasi adalah energi akibat gerak putar (EK = 1/2 Iω²).",
+            "rubrik": {
+                "3": "Menjelaskan perbedaan dan menuliskan kedua rumus dengan benar.",
+                "2": "Menjelaskan perbedaan tetapi hanya menuliskan satu rumus.",
+                "1": "Menjelaskan perbedaan tanpa rumus.",
+                "0": "Tidak menjawab atau jawaban salah."
+            }
+        },
+        {
+            "id": "s5",
+            "teks": "Sebuah silinder pejal dengan massa M dan jari-jari R menggelinding tanpa slip. Jika kecepatan sudutnya ω, hitung energi kinetik total silinder tersebut.",
+            "kunci": "EK_total = EK_translasi + EK_rotasi = 1/2 Mv² + 1/2 Iω². Karena v = ωR dan I = 1/2 MR², maka EK_total = 1/2 M(ωR)² + 1/2 (1/2 MR²)ω² = 3/4 Mω²R².",
+            "rubrik": {
+                "3": "Menyebutkan rumus total EK, substitusi v = ωR, dan I, lalu menghitung dengan benar.",
+                "2": "Menyebutkan rumus EK total dan substitusi v dan I, tetapi salah perhitungan.",
+                "1": "Menyebutkan rumus EK translasi dan rotasi saja.",
+                "0": "Tidak menjawab atau jawaban salah."
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "judul": "LKPD: Dinamika Rotasi - Analisis Torsi dan Durasi Putaran Gasing",
+    "tujuan": [
+        "Peserta didik mampu menganalisis hubungan antara gaya, lengan gaya, dan torsi dalam gerak rotasi menggunakan model gasing.",
+        "Peserta didik mampu mengevaluasi hasil percobaan rotasi gasing untuk menentukan faktor-faktor yang mempengaruhi durasi dan kecepatan putaran.",
+        "Peserta didik mampu menyajikan data dalam bentuk laporan praktikum dan mempresentasikan di depan kelas."
+    ],
+    "dasar_teori": "Momen gaya atau dikenal sebagai torsi (τ), adalah besaran vektor yang menggerakkan suatu benda tegar untuk berotasi atau berputar terhadap suatu poros tertentu. Rumus torsi: τ = r × F × sin(θ), dengan r adalah lengan gaya, F adalah besar gaya, dan θ adalah sudut antara vektor gaya dan lengan momen. Momen inersia (I) adalah ukuran kelembaman suatu benda terhadap perubahan keadaan rotasinya.",
+    "petunjuk": [
+        "Perhatikan simulasi yang sudah dilakukan dalam pembelajaran.",
+        "Lakukan simulasi sesuai langkah kerja!",
+        "Jawablah pertanyaan-pertanyaan yang terdapat di LKPD ini secara berkelompok."
+    ],
+    "alat_bahan": [
+        "1 buah gasing (bisa dibuat dari CD bekas, tutup botol)",
+        "Stopwatch",
+        "Penggaris atau meteran",
+        "Tali (untuk memutar gasing)",
+        "Buku catatan"
+    ],
+    "langkah_kerja": [
+        "Rakit atau siapkan gasing (misalnya gasing dari CD bekas atau tutup botol).",
+        "Tentukan titik pusat poros gasing dan ukur panjang tali yang digunakan untuk memutar gasing.",
+        "Buat hipotesis: “Semakin besar gaya yang diberikan saat memutar gasing, maka semakin lama gasing berputar”.",
+        "Ukur panjang lengan gaya (jarak dari pusat poros ke titik gaya) untuk setiap percobaan.",
+        "Putar gasing dengan tiga variasi gaya (lemah, sedang, kuat).",
+        "Catat lama waktu putaran dengan stopwatch dari awal hingga berhenti.",
+        "Lakukan setiap variasi gaya sebanyak 3 kali."
+    ],
+    "tabel_header": [
+        "No.",
+        "Gaya Tarikan",
+        "Panjang Tali/ Lengan (cm)",
+        "Waktu Putar (s)",
+        "Torsi Relatif"
+    ],
+    "analisis_pertanyaan": [
+        "Berdasarkan data waktu putar dari masing-masing gaya (lemah, sedang, kuat), bagaimana pengaruh besar gaya terhadap torsi dan durasi putaran gasing?",
+        "Hitung dan bandingkan nilai torsi relatif dari setiap gaya yang digunakan pada percobaan. Apakah data tersebut konsisten atau relevan dengan teori bahwa torsi berbanding lurus dengan gaya?",
+        "Dari hasil percobaan, gasing yang ditarik dengan gaya lebih besar dapat mencapai putaran awal yang lebih cepat dan berputar lebih lama. Jelaskan bagaimana fenomena ini terjadi berdasarkan prinsip torsi dalam sistem rotasi!"
+    ],
+    "kunci_jawaban_analisis": {
+        "q1": "Pengaruh gaya terhadap torsi dan durasi putaran: Semakin besar gaya yang diberikan, semakin besar torsi yang dihasilkan, sehingga gasing berputar lebih cepat dan berlangsung lebih lama.",
+        "q2": "Perbandingan torsi relatif: Jika jarak lengan gaya tetap, torsi berbanding lurus dengan besar gaya. Data menunjukkan torsi meningkat seiring peningkatan gaya (lemah < sedang < kuat), yang konsisten dengan teori τ=r⋅F .",
+        "q3": "Penjelasan fenomena: Gaya yang lebih besar menghasilkan torsi lebih besar, memberikan percepatan sudut awal lebih tinggi. Akibatnya, gasing mencapai kecepatan sudut awal lebih besar, sehingga energi kinetik rotasinya lebih besar dan memerlukan waktu lebih lama untuk berhenti akibat gesekan."
+    },
+    "kesimpulan_petunjuk": "Tulis kesimpulan kelompok Anda berdasarkan percobaan dan analisis di atas:",
+    "waktu_update": "2025-10-26 21:38:27"
+}

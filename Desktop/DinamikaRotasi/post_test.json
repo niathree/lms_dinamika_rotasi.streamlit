@@ -1,0 +1,147 @@
+{
+    "judul": "Post-test: Dinamika Rotasi",
+    "deskripsi": "Uji pemahamanmu tentang Torsi, Momen Inersia, Momentum Sudut, dan Energi Kinetik Rotasi.",
+    "soal_list": [
+        {
+            "id": 1,
+            "soal": "Sebuah silinder pejal (I = ½MR²) dan sebuah silinder berongga tipis (I = MR²) dengan massa dan jari-jari yang sama dilepaskan dari keadaan diam di puncak bidang miring yang sama. Manakah pernyataan yang benar mengenai gerak keduanya?",
+            "pilihan": [
+                "A. Silinder berongga tiba di dasar lebih dulu karena memiliki momen inersia lebih besar.",
+                "B. Silinder pejal tiba di dasar lebih dulu karena memiliki momen inersia lebih kecil.",
+                "C. Keduanya tiba di dasar secara bersamaan karena massa dan jari-jarinya sama.",
+                "D. Silinder berongga memiliki kecepatan linear akhir yang lebih besar.",
+                "E. Silinder pejal memiliki energi kinetik rotasi yang lebih besar di dasar."
+            ],
+            "kunci": "B",
+            "poin": 11,
+            "tingkat": "C4"
+        },
+        {
+            "id": 2,
+            "soal": "Sebuah roda dengan momen inersia 0,4 kg·m² berputar dengan kecepatan sudut 10 rad/s. Untuk menghentikannya dalam waktu 2 detik, torsi konstan yang harus diberikan adalah...",
+            "pilihan": [
+                "A. 0.5 Nm",
+                "B. 1.0 Nm",
+                "C. 2.0 Nm",
+                "D. 4.0 Nm",
+                "E. 8.0 Nm"
+            ],
+            "kunci": "C",
+            "poin": 11,
+            "tingkat": "C4"
+        },
+        {
+            "id": 3,
+            "soal": "Sebuah roda sepeda berdiameter 0,8 m diberi gaya 25 N secara tegak lurus pada tepinya. Besar torsi yang dihasilkan terhadap porosnya adalah...",
+            "pilihan": [
+                "A. 5 Nm",
+                "B. 10 Nm",
+                "C. 20 Nm",
+                "D. 25 Nm",
+                "E. 40 Nm"
+            ],
+            "kunci": "C",
+            "poin": 7,
+            "tingkat": "C3"
+        },
+        {
+            "id": 4,
+            "soal": "Sebuah kipas angin memiliki momen inersia 0,8 kg·m² dan mengalami torsi sebesar 4 Nm. Percepatan sudut kipas tersebut adalah...",
+            "pilihan": [
+                "A. 0.2 rad/s²",
+                "B. 0.4 rad/s²",
+                "C. 2.0 rad/s²",
+                "D. 5.0 rad/s²",
+                "E. 8.0 rad/s²"
+            ],
+            "kunci": "D",
+            "poin": 7,
+            "tingkat": "C3"
+        },
+        {
+            "id": 5,
+            "soal": "Seorang penari balet sedang berputar dengan lengan terentang. Ketika ia menarik kedua lengannya ke dada, kecepatan putarannya meningkat. Fenomena ini dapat dijelaskan dengan prinsip...",
+            "pilihan": [
+                "A. Hukum II Newton untuk Rotasi.",
+                "B. Kekekalan Energi Mekanik.",
+                "C. Kekekalan Momentum Sudut.",
+                "D. Hukum Kekekalan Energi Kinetik.",
+                "E. Hukum Kekekalan Momen Inersia."
+            ],
+            "kunci": "C",
+            "poin": 7,
+            "tingkat": "C3"
+        },
+        {
+            "id": 6,
+            "soal": "Dua gaya bekerja pada sebuah batang yang dapat berputar di titik poros O. Gaya A = 30 N, diberikan pada jarak 0,5 m dari O dengan sudut 90°. Gaya B = 40 N, diberikan pada jarak 0,4 m dari O dengan sudut 30°. Manakah pernyataan yang benar?",
+            "pilihan": [
+                "A. Torsi dari gaya A dan B sama besar.",
+                "B. Torsi dari gaya B lebih besar karena gayanya lebih besar.",
+                "C. Torsi dari gaya A lebih besar karena menghasilkan torsi maksimum.",
+                "D. Torsi dari gaya B lebih besar karena lengan momennya lebih panjang.",
+                "E. Tidak dapat dibandingkan karena arah gayanya berbeda."
+            ],
+            "kunci": "C",
+            "poin": 11,
+            "tingkat": "C4"
+        },
+        {
+            "id": 7,
+            "soal": "Jika lengan gaya dari sebuah pintu dikurangi menjadi sepertiganya, bagaimana perubahan torsi yang dihasilkan jika gaya yang diberikan tetap?",
+            "pilihan": [
+                "A. Torsi menjadi tiga kali lebih besar.",
+                "B. Torsi menjadi sepertiga dari semula.",
+                "C. Torsi tetap sama.",
+                "D. Torsi menjadi sembilan kali lebih kecil.",
+                "E. Torsi menjadi nol."
+            ],
+            "kunci": "B",
+            "poin": 11,
+            "tingkat": "C4"
+        },
+        {
+            "id": 8,
+            "soal": "Sebuah benda memiliki momen inersia sebesar I dan berotasi dengan kecepatan sudut ω. Jika kecepatan sudutnya diubah menjadi 2ω, bagaimana perubahan energi kinetik rotasinya?",
+            "pilihan": [
+                "A. Menjadi dua kali lipat.",
+                "B. Menjadi empat kali lipat.",
+                "C. Menjadi setengahnya.",
+                "D. Tidak berubah.",
+                "E. Menjadi seperempatnya."
+            ],
+            "kunci": "B",
+            "poin": 11,
+            "tingkat": "C4"
+        },
+        {
+            "id": 9,
+            "soal": "Dua roda identik memiliki massa yang sama, tetapi roda A massanya terkonsentrasi di tepi, sedangkan roda B massanya terkonsentrasi di pusat. Jika keduanya diberi torsi yang sama, roda mana yang lebih cepat mencapai kecepatan sudut tertentu?",
+            "pilihan": [
+                "A. Roda A karena momen inersianya lebih besar.",
+                "B. Roda B karena momen inersianya lebih kecil.",
+                "C. Keduanya sama karena massanya sama.",
+                "D. Roda A karena lebih stabil.",
+                "E. Tidak dapat ditentukan tanpa mengetahui jari-jarinya."
+            ],
+            "kunci": "B",
+            "poin": 11,
+            "tingkat": "C4"
+        },
+        {
+            "id": 10,
+            "soal": "Sebuah benda dikenai torsi sebesar 6 Nm, dengan gaya 20 N yang bekerja pada jarak 0,6 m dari sumbu putar. Berapakah besar sudut θ antara arah gaya dan lengan momen?",
+            "pilihan": [
+                "A. 0°",
+                "B. 30°",
+                "C. 45°",
+                "D. 60°",
+                "E. 90°"
+            ],
+            "kunci": "B",
+            "poin": 13,
+            "tingkat": "C4"
+        }
+    ],
+    "waktu_update": "2025-11-25 06:15:20"
+}
