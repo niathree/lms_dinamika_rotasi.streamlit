@@ -1,0 +1,26 @@
+{
+    "judul": "Simulasi Virtual: Dinamika Rotasi",
+    "deskripsi": "Eksplorasi konsep Torsi, Momen Inersia, dan Momentum Sudut secara interaktif dengan simulasi PhET!",
+    "petunjuk_penggunaan": "📘 **Petunjuk Umum Penggunaan Simulasi PhET**\n💡 Simulasi ini akan membantu Anda memahami konsep-konsep penting dalam dinamika rotasi.\n**Ikuti langkah-langkah berikut untuk masing-masing simulasi:**\n- Buka simulasi yang ingin Anda eksplorasi.\n- Gunakan kontrol yang tersedia untuk mengubah parameter.\n- Amati perubahan yang terjadi pada grafik dan animasi.\n- Jawab pertanyaan yang terkait dengan masing-masing simulasi.\n> 🎯 **Tujuan**: Memahami prinsip Hukum II Newton untuk Rotasi (τ = Iα), kekekalan momentum sudut, dan faktor-faktor yang memengaruhi gerak rotasi.\n",
+    "simulasi_list": [
+        {
+            "judul": "⚖️ Torque (Torsi) - PhET",
+            "url": "https://phet.colorado.edu/sims/cheerpj/rotation/latest/rotation.html?simulation=torque",
+            "sumber": "PhET Colorado",
+            "petunjuk": "### Petunjuk Simulasi: Torque (Torsi)\n1.  **Pilih Tab \"Torque\"**.\n2.  **Eksplorasi Variabel**:\n    - **Force**: Atur besar gaya yang diberikan ke roda.\n    - **Brake Force**: Aktifkan atau nonaktifkan gaya rem.\n    - **Applied Force Location**: Geser titik aplikasi gaya untuk mengubah lengan momen.\n    - **Mass of the ladybug**: Ubah massa kutu untuk melihat pengaruhnya terhadap momen inersia.\n3.  **Amati**: Torsi, percepatan sudut, dan kecepatan sudut.\n4.  **Pertanyaan**:\n    - Apa hubungan antara lengan momen dan torsi?\n    - Bagaimana pengaruh massa terhadap percepatan sudut?\n"
+        },
+        {
+            "judul": "🔄 Moment of Inertia (Momen Inersia) - PhET",
+            "url": "https://phet.colorado.edu/sims/cheerpj/mass-and-spring-lab/latest/mass-and-spring-lab_en.html",
+            "sumber": "PhET Colorado",
+            "petunjuk": "### Petunjuk Simulasi: Moment of Inertia (Momen Inersia)\n1.  **Pilih Simulasi \"Moment of Inertia\"** (jika tersedia).\n2.  **Eksplorasi Variabel**:\n    - **Object Shape**: Pilih bentuk benda (silinder, bola, dll).\n    - **Mass**: Ubah massa benda.\n    - **Radius**: Ubah jari-jari benda.\n    - **Applied Force**: Terapkan gaya untuk memutar benda.\n3.  **Amati**: Bagaimana perubahan bentuk, massa, dan jari-jari memengaruhi momen inersia dan gerak rotasi.\n4.  **Pertanyaan**:\n    - Benda mana yang lebih mudah diputar? Beri alasannya.\n    - Apa yang terjadi jika massa benda dipindahkan menjauhi sumbu putar?\n"
+        },
+        {
+            "judul": "🔄 Angular Momentum (Momentum Sudut) - PhET",
+            "url": "https://phet.colorado.edu/sims/cheerpj/ladybug-revolution/latest/ladybug-revolution_en.html",
+            "sumber": "PhET Colorado",
+            "petunjuk": "### Petunjuk Simulasi: Angular Momentum (Momentum Sudut)\n1.  **Pilih Simulasi \"Angular Momentum\"** (jika tersedia).\n2.  **Eksplorasi Variabel**:\n    - **Angular Velocity**: Atur kecepatan putar awal.\n    - **Moment of Inertia**: Ubah bentuk atau distribusi massa benda.\n    - **External Torque**: Terapkan torsi luar (jika ada).\n3.  **Amati**: Momentum sudut (L = Iω) dan apakah nilainya tetap (kekekalan momentum sudut).\n4.  **Pertanyaan**:\n    - Apakah momentum sudut tetap jika tidak ada torsi luar?\n    - Apa yang terjadi pada kecepatan sudut jika momen inersia berkurang (misalnya, tangan ditarik)?\n"
+        }
+    ],
+    "waktu_update": "2025-11-24 22:12:22"
+}

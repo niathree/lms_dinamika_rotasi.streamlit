@@ -1,0 +1,14 @@
+{
+    "judul": "Simulasi Virtual: Dinamika Rotasi",
+    "deskripsi": "Eksplorasi konsep Torsi, Momen Inersia, dan Momentum Sudut secara interaktif dengan simulasi PhET 'Rotation'!",
+    "petunjuk_penggunaan": "💡 Simulasi ini akan membantu Anda memahami konsep-konsep penting dalam dinamika rotasi.\n**Ikuti langkah-langkah berikut:**\n1.  **Buka Simulasi**: Klik tombol \"Buka Simulasi\" di bawah untuk membuka simulasi di tab baru.\n2.  **Pilih Tab**:\n    - **\"Torque\"**: Untuk mempelajari torsi dan hubungannya dengan percepatan sudut.\n    - **\"Moment of Inertia\"**: Untuk mempelajari momen inersia dari berbagai benda.\n    - **\"Angular Momentum\"**: Untuk mempelajari momentum sudut dan hukum kekekalan momentum sudut.\n3.  **Eksplorasi Variabel**:\n    - **Force**: Atur besar gaya yang diberikan.\n    - **Brake Force**: Gunakan untuk menghentikan rotasi.\n    - **Applied Force Location**: Ubah posisi aplikasi gaya.\n    - **Mass of the ladybug**: Ubah massa untuk memengaruhi momen inersia.\n4.  **Amati Perubahan**:\n    - Torsi (τ), percepatan sudut (α), kecepatan sudut (ω), dan momentum sudut (L).\n5.  **Jawab Pertanyaan**:\n    - Apa hubungan antara torsi dan percepatan sudut?\n    - Bagaimana pengaruh distribusi massa terhadap momen inersia?\n    - Apakah momentum sudut tetap jika tidak ada torsi luar?\n",
+    "simulasi_list": [
+        {
+            "judul": "🔄 Rotation: Torque, Moment of Inertia & Angular Momentum - PhET",
+            "url": "https://phet.colorado.edu/sims/cheerpj/rotation/latest/rotation.html?simulation=torque",
+            "sumber": "PhET Colorado",
+            "petunjuk": "**Tab 1: Torque**\n- Eksplorasi hubungan τ = Iα.\n- Ubah gaya dan lengan momen.\n- Amati perubahan torsi dan percepatan sudut.\n\n**Tab 2: Moment of Inertia**\n- Pilih bentuk benda dan ubah massanya.\n- Lihat bagaimana momen inersia berubah.\n- Bandingkan momen inersia benda padat dan berongga.\n\n**Tab 3: Angular Momentum**\n- Aktifkan \"Angular Momentum Vector\".\n- Ubah momen inersia (misalnya, dengan memindahkan massa).\n- Amati apakah momentum sudut (L) tetap (jika tidak ada torsi luar).\n- Eksplorasi hukum kekekalan momentum sudut.\n"
+        }
+    ],
+    "waktu_update": "2025-11-25 15:55:55"
+}

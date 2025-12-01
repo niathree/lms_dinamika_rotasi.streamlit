@@ -1,0 +1,30 @@
+{
+    "judul": "Media Pembelajaran: Dinamika Rotasi",
+    "deskripsi": "Berikut adalah media pembelajaran tambahan untuk memperdalam pemahaman Anda tentang Dinamika Rotasi.",
+    "pertemuan_1": {
+        "judul": "Pertemuan 1",
+        "bahan_ajar": "",
+        "deskripsi": "Bahan ajar untuk Pertemuan 1",
+        "videos": [
+            {
+                "judul": "Video 1",
+                "url": "https://www.youtube.com/embed/9sWYHaFyowQ?si=kQa9OR9FIDBQ6nAM",
+                "sumber": "YouTube/Guru"
+            },
+            {
+                "judul": "Video 2",
+                "url": "https://www.youtube.com/embed/9sWYHaFyowQ?si=kQa9OR9FIDBQ6nAM",
+                "sumber": "YouTube/Guru"
+            }
+        ],
+        "images": []
+    },
+    "pertemuan_2": {
+        "judul": "Pertemuan 2",
+        "bahan_ajar": "",
+        "deskripsi": "Bahan ajar untuk Pertemuan 2",
+        "videos": [],
+        "images": []
+    },
+    "waktu_update": "2025-11-03 19:25:21"
+}

@@ -1,0 +1,26 @@
+{
+    "judul": "Refleksi Pembelajaran: Dinamika Rotasi",
+    "deskripsi": "Halo, Sobat Fisika! Setelah menyelesaikan pembelajaran dan praktikum tentang Dinamika Rotasi, saatnya kamu merefleksikan pengalaman belajarmu. Jawablah pertanyaan-pertanyaan berikut dengan jujur dan terbuka untuk membantu guru memahami pemikiran dan perkembanganmu.",
+    "pertanyaan_list": [
+        {
+            "id": "r1",
+            "teks": "Bagaimana perasaan Anda setelah mempelajari materi pada pertemuan ini?"
+        },
+        {
+            "id": "r2",
+            "teks": "Materi apa yang belum Anda pahami pada pembelajaran ini?"
+        },
+        {
+            "id": "r3",
+            "teks": "Menurut Anda, materi apa yang paling menyenangkan pada pembelajaran ini?"
+        },
+        {
+            "id": "r4",
+            "teks": "Apa yang akan Anda lakukan untuk mempelajari materi yang belum Anda mengerti?"
+        },
+        {
+            "id": "r5",
+            "teks": "Apa yang akan Anda lakukan untuk meningkatkan hasil belajar Anda?"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "pertemuan_1": {
+        "judul": "Simulasi Virtual: Dinamika Rotasi - Pertemuan 1",
+        "deskripsi": "Pada pertemuan ini, kamu akan mempelajari konsep dasar torsi (momen gaya) dan bagaimana gaya, jarak, dan sudut mempengaruhi kemampuan suatu benda untuk berputar. Kamu akan melakukan simulasi interaktif untuk mengamati pengaruh variasi parameter terhadap torsi yang dihasilkan.",
+        "parameter": {
+            "r_min": 0.1,
+            "r_max": 2.0,
+            "r_default": 1.0,
+            "F_min": 1,
+            "F_max": 20,
+            "F_default": 10,
+            "theta_min": 0,
+            "theta_max": 180,
+            "theta_default": 90
+        },
+        "rumus": "τ = r × F × sin(θ)",
+        "keterangan_rumus": "τ = torsi (Nm), r = lengan gaya (m), F = gaya (N), θ = sudut antara gaya dan lengan (derajat)",
+        "waktu_update": "2025-10-26 21:49:11"
+    },
+    "pertemuan_2": {
+        "judul": "Simulasi Virtual: Dinamika Rotasi - Pertemuan 2",
+        "deskripsi": "Pada pertemuan ini, kamu akan mempelajari sistem katrol bermassa yang berotasi akibat beban yang menggantung. Kamu akan melakukan simulasi interaktif untuk mengamati pengaruh massa katrol, jari-jari katrol, dan massa beban terhadap percepatan sudut katrol.",
+        "parameter": {
+            "M_min": 0.5,
+            "M_max": 10.0,
+            "M_default": 2.0,
+            "R_min": 0.1,
+            "R_max": 1.0,
+            "R_default": 0.3,
+            "m_min": 0.1,
+            "m_max": 5.0,
+            "m_default": 1.0
+        },
+        "rumus": "τ = I · α",
+        "keterangan_rumus": "τ = torsi (Nm), I = momen inersia (kg·m²), α = percepatan sudut (rad/s²)",
+        "waktu_update": "2025-10-26 21:49:11"
+    }
+}

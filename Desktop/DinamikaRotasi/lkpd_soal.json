@@ -1,0 +1,10 @@
+{
+    "judul": "LKPD: Dinamika Rotasi - Analisis Torsi dan Durasi Putaran Gasing",
+    "deskripsi": "Lembar Kerja Peserta Didik untuk menganalisis hubungan antara gaya, lengan gaya, dan torsi.",
+    "soal_list": [
+        {
+            "id": "q1",
+            "teks": "Berdasarkan data waktu putar dari masing-masing gaya (lemah, sedang, kuat), bagaimana pengaruh besar gaya terhadap torsi dan durasi putaran gasing?"
+        }
+    ]
+}

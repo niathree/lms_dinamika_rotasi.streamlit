@@ -1,0 +1,18 @@
+{
+    "judul": "Post-test: Dinamika Rotasi",
+    "deskripsi": "Uji pemahamanmu setelah mempelajari Dinamika Rotasi.",
+    "soal_list": [
+        {
+            "id": "q1",
+            "teks": "(C2) Perbedaan utama antara gerak translasi dan rotasi adalah...",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "kunci": "B"
+        }
+    ]
+}
